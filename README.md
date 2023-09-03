@@ -17,7 +17,7 @@ A valid intranet.alxswe.com account.
 
 
 
-__#Installation**__
+__#Installation__
 
 1- Clone the repository to your local machine:
 git clone https://github.com/yourusername/Intranet-Cabinet.git
